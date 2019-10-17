@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BubbleShowCase.iml" filepath="$PROJECT_DIR$/BubbleShowCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleShowCase-Android-master.iml" filepath="$PROJECT_DIR$/BubbleShowCase-Android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/BubbleShowCase-Android-master-app.iml" filepath="$PROJECT_DIR$/app/BubbleShowCase-Android-master-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubbleshowcase/BubbleShowCase-Android-master-bubbleshowcase.iml" filepath="$PROJECT_DIR$/bubbleshowcase/BubbleShowCase-Android-master-bubbleshowcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubbleshowcase/bubbleshowcase.iml" filepath="$PROJECT_DIR$/bubbleshowcase/bubbleshowcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../jcampos/StudioProjects/BubbleShowCase/bubbleshowcase/bubbleshowcaseview.iml" filepath="$PROJECT_DIR$/../../../jcampos/StudioProjects/BubbleShowCase/bubbleshowcase/bubbleshowcaseview.iml" />
+    </modules>
+  </component>
+</project>

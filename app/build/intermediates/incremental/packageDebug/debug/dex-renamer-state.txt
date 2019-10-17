@@ -1,0 +1,4 @@
+#Fri Oct 18 01:37:24 IST 2019
+base.0=C\:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

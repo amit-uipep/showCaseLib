@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <color name="black">#000000</color>
+    <color name="blue_default">#3F51B5</color>
+    <color name="red">#FF5722</color>
+    <color name="transparent_grey">#77000000</color>
+    <color name="white">#FFF</color>
+    <declare-styleable name="PlayFairDisplayTextView"><attr format="string" name="textfont"/></declare-styleable>
+    <declare-styleable name="ShowCaseMessageView"><attr format="reference" name="iconImage"/><attr format="reference" name="iconClose"/><attr format="string" name="title"/><attr format="string" name="text"/><attr format="color" name="backgroundColor"/></declare-styleable>
+    <string name="app_name">BubbleShowCase</string>
+</resources>
