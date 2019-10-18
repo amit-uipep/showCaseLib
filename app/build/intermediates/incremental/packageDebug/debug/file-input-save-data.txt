@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Fri Oct 18 01:37:24 IST 2019
+#Fri Oct 18 12:45:44 IST 2019
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1

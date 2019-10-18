@@ -1,10 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "outputFile": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\bubbleshowcase\\build\\intermediates\\bundles\\debug\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+                    "source": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/bubbleshowcase/build/intermediates/bundles/debug/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "37",
+                        "endOffsets": "88"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\bubbleshowcase\\build\\intermediates\\bundles\\debug\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

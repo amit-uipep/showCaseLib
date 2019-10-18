@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml\\values-ml.xml",
+            "outputFile": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml\\values-ml.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3a68bfefa8ec02b0715f404f4af82628\\res\\values-ml\\values-ml.xml",
+                    "source": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3a68bfefa8ec02b0715f404f4af82628\\res\\values-ml\\values-ml.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\3de3f1b91e8b217b3af5482dced4f540\\res\\values-ml\\values-ml.xml",
+                    "source": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\3de3f1b91e8b217b3af5482dced4f540\\res\\values-ml\\values-ml.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +28,38 @@
                         "startOffsets": "2004",
                         "endColumns": "100",
                         "endOffsets": "2100"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml",
+            "map": [
+                {
+                    "source": "/home/yaseer-ahmed-uipep/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6a4ef011a54a09329fb26a68b230b7c8/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2004",
+                        "endColumns": "100",
+                        "endOffsets": "2100"
+                    }
+                },
+                {
+                    "source": "/home/yaseer-ahmed-uipep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/036d36e2d6051ac062b116056f6abd48/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,224,342,457,550,655,787,864,940,1022,1133,1239,1337,1451,1551,1662,1821,1922",
+                        "endColumns": "118,117,114,92,104,131,76,75,81,110,105,97,113,99,110,158,100,81",
+                        "endOffsets": "219,337,452,545,650,782,859,935,1017,1128,1234,1332,1446,1546,1657,1816,1917,1999"
                     }
                 }
             ]

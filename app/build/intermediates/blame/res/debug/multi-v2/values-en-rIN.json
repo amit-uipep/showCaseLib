@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\3de3f1b91e8b217b3af5482dced4f540\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\3de3f1b91e8b217b3af5482dced4f540\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,39 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3a68bfefa8ec02b0715f404f4af82628\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3a68bfefa8ec02b0715f404f4af82628\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "/home/yaseer-ahmed-uipep/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6a4ef011a54a09329fb26a68b230b7c8/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1907",
+                        "endColumns": "100",
+                        "endOffsets": "2003"
+                    }
+                },
+                {
+                    "source": "/home/yaseer-ahmed-uipep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/036d36e2d6051ac062b116056f6abd48/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

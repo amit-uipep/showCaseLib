@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Amit\Desktop\BubbleShowCase-Android-master\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Amit\Desktop\BubbleShowCase-Android-master\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/app/src/debug/jniLibs"/></dataSet></merger>

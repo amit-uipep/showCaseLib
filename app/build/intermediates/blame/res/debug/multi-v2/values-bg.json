@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
+            "outputFile": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3a68bfefa8ec02b0715f404f4af82628\\res\\values-bg\\values-bg.xml",
+                    "source": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3a68bfefa8ec02b0715f404f4af82628\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,39 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\3de3f1b91e8b217b3af5482dced4f540\\res\\values-bg\\values-bg.xml",
+                    "source": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/C:\\Users\\Amit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\3de3f1b91e8b217b3af5482dced4f540\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1977",
+                        "endColumns": "100",
+                        "endOffsets": "2073"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
+            "map": [
+                {
+                    "source": "/home/yaseer-ahmed-uipep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/036d36e2d6051ac062b116056f6abd48/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,220,327,432,518,623,744,823,901,984,1098,1207,1307,1421,1527,1635,1795,1894",
+                        "endColumns": "114,106,104,85,104,120,78,77,82,113,108,99,113,105,107,159,98,82",
+                        "endOffsets": "215,322,427,513,618,739,818,896,979,1093,1202,1302,1416,1522,1630,1790,1889,1972"
+                    }
+                },
+                {
+                    "source": "/home/yaseer-ahmed-uipep/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6a4ef011a54a09329fb26a68b230b7c8/res/values-bg/values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

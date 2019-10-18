@@ -22,7 +22,7 @@ interface BubbleShowCaseListener {
     fun onBackgroundDimClick(bubbleShowCase: BubbleShowCase)
 
     /**
-     * It is called when the user clicks on the bubble by amit
+     * It is called when the user clicks on the btn // by amit
      */
     fun onContinueBtnClick(bubbleShowCase: BubbleShowCase)
     fun onSkipBtnClick(bubbleShowCase: BubbleShowCase)

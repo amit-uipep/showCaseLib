@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Amit\Desktop\BubbleShowCase-Android-master\bubbleshowcase\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Amit\Desktop\BubbleShowCase-Android-master\bubbleshowcase\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/bubbleshowcase/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/bubbleshowcase/src/debug/shaders"/></dataSet></merger>

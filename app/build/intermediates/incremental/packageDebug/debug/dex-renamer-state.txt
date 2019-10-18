@@ -1,4 +1,4 @@
-#Fri Oct 18 01:37:24 IST 2019
-base.0=C\:\\Users\\Amit\\Desktop\\BubbleShowCase-Android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Fri Oct 18 12:45:44 IST 2019
+base.0=/home/yaseer-ahmed-uipep/Desktop/UIPEP/Library/showCaseLib/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

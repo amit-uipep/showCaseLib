@@ -101,12 +101,6 @@ class BubbleShowCase (builder: BubbleShowCaseBuilder){
         backgroundDimLayout = getBackgroundDimLayout()
         //setBackgroundDimListener(backgroundDimLayout)
 
-        //set background continue and skip listener
-        backgroundContinueBtn = getBackgroundDimLayout().findViewById(FOREGROUND_CONTINUE_BUTTON_ID)
-        backgroundSkipBtn = getBackgroundDimLayout().findViewById(FOREGROUND_SKIP_BUTTON_ID)
-        setBackgroundContinueBtnListener(backgroundContinueBtn)
-        setBackgroundSkipBtnListener(backgroundSkipBtn)
-
         bubbleMessageViewBuilder = getBubbleMessageViewBuilder()
 
         if (mTargetView != null && mArrowPositionList.size <= 1) {
@@ -189,8 +183,10 @@ class BubbleShowCase (builder: BubbleShowCaseBuilder){
         skipBtn.layoutParams = btnLayout
         skipBtn.text = "SKIP"
         skipBtn.gravity = Gravity.CENTER
+        skipBtn.isClickable = true
         skipBtn.setTextColor(ContextCompat.getColor(mActivity.get()!!, R.color.black))
         skipBtn.setPadding(96,32,96,32)
+        setSkipBtnListener(skipBtn)
         backgroundLayout.addView(skipBtn)
 
         continueBtnLayoutParams.addRule(RelativeLayout.LEFT_OF,skipBtn.id)
@@ -198,9 +194,11 @@ class BubbleShowCase (builder: BubbleShowCaseBuilder){
         continueBtnLayoutParams.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM)
         continueBtn.layoutParams = continueBtnLayoutParams
         continueBtn.text = "continue"
+        continueBtn.isClickable = true
         continueBtn.setTextColor(ContextCompat.getColor(mActivity.get()!!, R.color.white))
         continueBtn.setPadding(8,4,8,4)
         continueBtn.setBackgroundColor(ContextCompat.getColor(mActivity.get()!!, R.color.red))
+        setContinueBtnListener(continueBtn)
         backgroundLayout.addView(continueBtn)
 
         ///end add button
@@ -212,12 +210,18 @@ class BubbleShowCase (builder: BubbleShowCaseBuilder){
     }
 
     //amit
-    private fun setBackgroundContinueBtnListener(continueBtn: Button?){
-        continueBtn?.setOnClickListener { mBubbleShowCaseListener?.onContinueBtnClick(this) }
+    private fun setContinueBtnListener(continueBtn: Button?){
+        continueBtn?.setOnClickListener {
+            mBubbleShowCaseListener?.onContinueBtnClick(this)
+            dismiss()
+        }
     }
 
-    private fun setBackgroundSkipBtnListener(skipBtn: TextView?){
-        skipBtn?.setOnClickListener { mBubbleShowCaseListener?.onSkipBtnClick(this) }
+    private fun setSkipBtnListener(skipBtn: TextView?){
+        skipBtn?.setOnClickListener {
+            mBubbleShowCaseListener?.onSkipBtnClick(this)
+            dismiss()
+        }
     }
     //amit end
 
